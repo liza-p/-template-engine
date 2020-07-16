@@ -18,6 +18,13 @@ To view the generated file  navigate to the ```output``` directory then open the
 ## End result
 ![](img/img.png)
 
+## How to test
+There are unit test provided in the ```test``` directory. To run test go to the root directory via the terminal and run the next command.
+
+``` npm run test```
+
+## Test Results
+![](img/test.png)
 
 ## Technologies Used
 - JavaScript
