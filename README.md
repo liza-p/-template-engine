@@ -15,6 +15,7 @@ To view the generated file  navigate to the ```output``` directory then open the
 
 ## Demo 
 ![](img/demo.gif)
+## End result
 ![](img/img.png)
 
 
