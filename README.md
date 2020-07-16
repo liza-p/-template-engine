@@ -1,15 +1,15 @@
 # template-engine
 
 ## Project Description
-This is a software engineering team generator command line application. The application prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
+This is a software engineering team generator command line application. The application prompts the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
 ## How to generate an HTML file
 
-To generate the HTMl file simply clone this repository, navigate via the terminal to the directory where app.js file is and run the command
+To generate the HTML file simply clone this repository, navigate via the terminal to the directory where app.js file is and run the command
 ```
  node app.js
 ```
-then you will be prompted to answear a list of questions related to your team.
+then you will be prompted to answer a list of questions related to your team.
 
 To view the generated file  navigate to the ```output``` directory then open the team.html file via a browser.
 
