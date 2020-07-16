@@ -5,7 +5,7 @@ This is a software engineering team generator command line application. The appl
 
 ## How to generate an HTML file
 
-To generate the HTMl file simple  clone this repository, navigate via the terminal to the directory where app.js file is and run the command
+To generate the HTMl file simply clone this repository, navigate via the terminal to the directory where app.js file is and run the command
 ```
  node app.js
 ```
