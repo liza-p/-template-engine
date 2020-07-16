@@ -19,7 +19,7 @@ To view the generated file  navigate to the ```output``` directory then open the
 ![](img/img.png)
 
 ## How to test
-There are unit test provided in the ```test``` directory. To run test go to the root directory via the terminal and run the next command.
+There are unit tests provided in the ```test``` directory. To run tests go to the root directory via the terminal and run the next command
 
 ``` npm run test```
 
